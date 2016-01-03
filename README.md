@@ -1,8 +1,8 @@
-# Rodrigo Polo´s live tutorials
+# Rodrigo Polo´s live workshops
 
-**English:** Online documentation for Rodrigo Polo´s live tutorials, each video online has his own folder including the details about each task that has ben done, instructions, links or install files.
+**English:** Online documentation for Rodrigo Polo´s live workshops, each video online has his own markdown file including the details about each task that has ben done, instructions, links or install files.
 
-**Español:** Documentación para los tutoriales  en vivo de Rodrigo Polo, cada vídeo en vivo tiene su carpeta con los detalles de lo que se realiza, instrucciones así como links de interés o instaladores.
+**Español:** Documentación para los talleres  en vivo de Rodrigo Polo, cada vídeo en vivo tiene archivo markdown con los detalles de lo que se realiza, instrucciones así como links de interés o instaladores.
 
 Vivimos en un mundo globalizado, razón por la cual muchos de los documentos están en inglés ya que el mundo entero habla inglés. Existen cientos de traductores en línea, sin embargo recomendamos muchísimo aprender inglés.
 
